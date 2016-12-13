@@ -11,7 +11,7 @@ public class Aloha {
 	System.out.println(name);
 	
 if (name.equals("exit") ){
-	   break;
+	   System.out.println("owarimashita");
 
 }
 
